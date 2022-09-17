@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/drawable/ic_account.xml" value="0.108" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/drawable/ic_catalog.xml" value="0.108" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/drawable/ic_home.xml" value="0.108" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/drawable/ic_more.xml" value="0.108" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/drawable/ic_search.xml" value="0.108" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/drawable/ic_shopping.xml" value="0.108" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/drawable/selector_item_bottom_navigate.xml" value="0.107" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/layout/fragment_catalog.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/layout/fragment_shopping.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/layout/fragment_still.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio10/DayOne/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

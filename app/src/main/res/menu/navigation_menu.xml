@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home"
+        android:title="Главная"
+        />
+    <item
+        android:id="@+id/ic_search"
+        android:icon="@drawable/ic_catalog"
+        android:title="Каталог"
+        />
+
+    <item
+        android:id="@+id/ic_shopping"
+        android:icon="@drawable/ic_shopping"
+        android:title="Корзина"
+        />
+
+    <item
+        android:id="@+id/ic_profile"
+        android:icon="@drawable/ic_account"
+        android:title="Профиль"/>
+
+    <item
+        android:id="@+id/ic_still"
+        android:icon="@drawable/ic_more"
+        android:title="Еще"
+        />
+</menu>
